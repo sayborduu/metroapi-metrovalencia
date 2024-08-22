@@ -2,6 +2,8 @@
 
 Una API de metrovalencia fácil de usar con características únicas.
 
+MetroAPI funciona como una alternativa fácil de usar para la API de MetroValencia. Al utilizar la API original, mejora el resultado con estructuras de datos mejoradas, operabilidad global y más. Se enfoca fuertemente en garantizar la privacidad del usuario y optimizar las URL.
+
 ## Autores
 
 - [Alex Badi](https://www.github.com/sayborduu)
